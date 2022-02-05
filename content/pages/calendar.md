@@ -4,29 +4,372 @@ title: Calendar
 uid: 3bc588eb-34cb-50a4-d385-985363aaf666
 ---
 
-| CLASS # | READINGS / ACTIVITY | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction. | &nbsp; |
-| 2, 3 | Alighieri, Dante. _Vita Nuova__._ | &nbsp; |
-| 4 | Petrarca, Francesco. Poems and letters. | &nbsp; |
-| 5 | Guest instructor: Diana Henderson. (Reading TBA) | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Tottel. "The Printer to the Reader." In _Songs and Sonnets (1557)._  {{< br >}}{{< br >}} Howard, Henry, Earl of Surrey. "The Soote Season"; "Loue that Liueth, and Reigneth"; "From Tuskane"; "W. Resteth Here"; "My Ratclif." {{< br >}}{{< br >}} Wyatt, Sir Thomas. "The Long Love"; "I Find No Peace"; "My Galley Charged with Forgetfulness." {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Tottel. _Songs and Sonnets (1557)._ {{< br >}}{{< br >}} Wyatt, Sir Thomas. "They Flee from Me"; "Caesar, When that the Traitor of Egypt"; "Divers Doth Use"; "Whoso List to Hunt?" {{< br >}}{{< br >}} Also:  {{< br >}}Wyatt. "Farewell, Love"; "My Lute Awake!"; "In Spain"; "Madam, Withouten Many Words." (See also the "Answer from a Lady" in notes) {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Gascoigne, George. _The Adventures of Mr. F. J._ {{< br >}}{{< br >}} Puttenham, George. _The Arte of English Poesie._ {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Gascoigne, George. _The Adventures of Mr. F. J._ (Cont.) {{< br >}}{{< br >}} Castiglione, Baldesar. _The Book of the Courtier_ I. {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Queen Elizabeth I. “The Marriage Speech” (Extemporaneous version) and “The Tilbury Speech” (Version in Cabala); “On Monsieur’s Departure”; “The Doubt of Future Foes”; “Ah Silly Pugge.” {{< br >}}{{< br >}} Ralegh, Sir Walter. “Praised be Diana’s Fair and Harmless Light”; “Fortune hath taken thee away my  love”; "The 21th and Last Booke of the Ocean to Scinthia.” {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | Drafts of first essay discussed. | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Herbert, Lady Mary Sidney. "To Queen Elizabeth"; Translations of Psalms 52, 89, 142. {{< br >}}{{< br >}} Sidney, Sir Philip. _The Lady of the May._ {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | &nbsp; | First essay due. |
-| 14 | Sidney, Sir Philip. _The Defense of Poesy._ | &nbsp; |
-| 15 | Sidney, Sir Philip.  _Astrophil and Stella._ | &nbsp; |
-| 16, 17 | Same as above. | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Spenser, Edmund. _The Faerie Queene II_, xii ("The Bower of Bliss"). {{< br >}}{{< br >}} See also Ralegh's dedicatory poem, "A Vision upon this Conceit of the Faery Queen." {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Spenser, Edmund. _Amoretti._ | &nbsp; |
-| 20 | Spenser, Edmund. _Amoretti._ (Conferences on the Final Paper) | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Shakespeare, William. _The Sonnets._ {{< br >}}{{< br >}} See also Barnfield, Richard. Sonnet 11 in _Cynthia_, aka "Sighing, and Sadly Sitting by My Love." {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Shakespeare, William. _The Sonnets_. (Conferences on the final paper) | &nbsp; |
-| 23 | Shakespeare, William. _The Sonnets_.  {{< br >}}  {{< br >}}Nashe, Thomas. "A Choice of Valentines." | &nbsp; |
-| 24 | Wroth, Lady Mary Sidney. _Pamphilia to Amphilantus.  {{< br >}}  {{< br >}}_TBA: Extra session to present drafts of the final paper. | &nbsp; |
-| 25 | Wroth, Lady Mary Sidney. _Pamphilia to Amphilantus._ | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Donne, John. "A Valediction Forbidding Mourning"; "The Sunne Rising." {{< br >}}{{< br >}} Phillips, Katharine. "Friendship in Embleme, or the Seal"; "Friendship's Mystery." {{< br >}}{{< br >}}  | Second essay due.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+READINGS / ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2, 3
+{{< tdclose >}}
+{{< tdopen >}}
+Alighieri, Dante. _Vita Nuova__._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Petrarca, Francesco. Poems and letters.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest instructor: Diana Henderson. (Reading TBA)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tottel. "The Printer to the Reader." In _Songs and Sonnets (1557)._ 
+
+Howard, Henry, Earl of Surrey. "The Soote Season"; "Loue that Liueth, and Reigneth"; "From Tuskane"; "W. Resteth Here"; "My Ratclif."
+
+Wyatt, Sir Thomas. "The Long Love"; "I Find No Peace"; "My Galley Charged with Forgetfulness."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tottel. _Songs and Sonnets (1557)._
+
+Wyatt, Sir Thomas. "They Flee from Me"; "Caesar, When that the Traitor of Egypt"; "Divers Doth Use"; "Whoso List to Hunt?"
+
+Also:  
+Wyatt. "Farewell, Love"; "My Lute Awake!"; "In Spain"; "Madam, Withouten Many Words." (See also the "Answer from a Lady" in notes)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gascoigne, George. _The Adventures of Mr. F. J._
+
+Puttenham, George. _The Arte of English Poesie._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gascoigne, George. _The Adventures of Mr. F. J._ (Cont.)
+
+Castiglione, Baldesar. _The Book of the Courtier_ I.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Queen Elizabeth I. “The Marriage Speech” (Extemporaneous version) and “The Tilbury Speech” (Version in Cabala); “On Monsieur’s Departure”; “The Doubt of Future Foes”; “Ah Silly Pugge.”
+
+Ralegh, Sir Walter. “Praised be Diana’s Fair and Harmless Light”; “Fortune hath taken thee away my  love”; "The 21th and Last Booke of the Ocean to Scinthia.”
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Drafts of first essay discussed.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Herbert, Lady Mary Sidney. "To Queen Elizabeth"; Translations of Psalms 52, 89, 142.
+
+Sidney, Sir Philip. _The Lady of the May._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+First essay due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Sidney, Sir Philip. _The Defense of Poesy._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Sidney, Sir Philip.  _Astrophil and Stella._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16, 17
+{{< tdclose >}}
+{{< tdopen >}}
+Same as above.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spenser, Edmund. _The Faerie Queene II_, xii ("The Bower of Bliss").
+
+See also Ralegh's dedicatory poem, "A Vision upon this Conceit of the Faery Queen."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, Edmund. _Amoretti._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, Edmund. _Amoretti._ (Conferences on the Final Paper)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shakespeare, William. _The Sonnets._
+
+See also Barnfield, Richard. Sonnet 11 in _Cynthia_, aka "Sighing, and Sadly Sitting by My Love."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _The Sonnets_. (Conferences on the final paper)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _The Sonnets_.  
+  
+Nashe, Thomas. "A Choice of Valentines."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Wroth, Lady Mary Sidney. _Pamphilia to Amphilantus.  
+  
+_TBA: Extra session to present drafts of the final paper.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Wroth, Lady Mary Sidney. _Pamphilia to Amphilantus._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Donne, John. "A Valediction Forbidding Mourning"; "The Sunne Rising."
+
+Phillips, Katharine. "Friendship in Embleme, or the Seal"; "Friendship's Mystery."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Second essay due.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
